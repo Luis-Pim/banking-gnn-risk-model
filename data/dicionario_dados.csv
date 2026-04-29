@@ -1,0 +1,21 @@
+campo,descricao
+cliente_id,Identificador sintético do cliente
+idade,Idade do cliente
+renda_mensal,Renda mensal estimada em reais
+media_qtd_pix_6m,Média mensal de quantidade de Pix nos últimos 6 meses
+media_valor_pix_6m,Valor médio por Pix nos últimos 6 meses
+valor_total_pix_6m,Valor total estimado movimentado via Pix nos últimos 6 meses
+qtd_login_app_30d,Quantidade de logins no app nos últimos 30 dias
+qtd_tentativas_login_falha_30d,Tentativas falhas de login nos últimos 30 dias
+qtd_contestacoes_12m,Quantidade de contestações nos últimos 12 meses
+tipo_fraude,Tipo principal da fraude relatada
+valor_fraude,Valor estimado envolvido na fraude
+tempo_resolucao_dias,Tempo até resolução administrativa
+teve_estorno,Flag se houve estorno
+percentual_estornado,Percentual do valor fraudado que foi estornado
+reclamacao_bacen,Flag de reclamação no Bacen
+reclamacao_consumidor_gov,Flag de reclamação no Consumidor.gov
+vulnerabilidade_digital_score,Score sintético de vulnerabilidade digital
+advogado_id,ID sintético de advogado; zero quando não há advogado associado
+prob_judicializacao_teorica,Probabilidade usada na simulação para gerar o alvo
+judicializou,"Alvo do modelo: 1 se houve judicialização, 0 caso contrário"
